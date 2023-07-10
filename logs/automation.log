@@ -1,0 +1,175 @@
+00:12:36.806 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+00:12:37.568 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+00:12:39.830 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+00:12:39.833 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+00:12:40.887 [main] INFO  testCases.TC_001_AccountRegistrationTest - Switched to IFRAME....
+00:12:41.326 [main] INFO  testCases.TC_001_AccountRegistrationTest - Switched BACK TO WINDOWS....
+00:12:41.333 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+00:12:43.349 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+00:12:50.057 [main] INFO  testCases.TC_002_LoginTest - ***********Starting TC_002_LoginTest************
+00:12:50.607 [main] INFO  testCases.TC_002_LoginTest - Clicked on Image
+00:16:39.160 [main] INFO  testCases.TC_002_LoginTest - ***********Starting TC_002_LoginTest************
+00:16:40.129 [main] INFO  testCases.TC_002_LoginTest - Clicked on Image
+00:21:07.980 [main] INFO  testCases.TC_002_LoginTest - ***********Starting TC_002_LoginTest************
+00:21:09.027 [main] INFO  testCases.TC_002_LoginTest - Clicked on Image
+00:28:45.610 [main] INFO  testCases.TC_002_LoginTest - ***********Starting TC_002_LoginTest************
+00:28:46.611 [main] INFO  testCases.TC_002_LoginTest - Clicked on Image
+00:28:48.151 [main] INFO  testCases.TC_002_LoginTest - Clicked on Sign IN
+00:28:48.153 [main] INFO  testCases.TC_002_LoginTest - Providing login details
+00:28:50.118 [main] INFO  testCases.TC_002_LoginTest - Clicked on Create Account button
+00:28:50.547 [main] INFO  testCases.TC_002_LoginTest - Clicked on Sign IN
+00:28:50.668 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+01:29:35.025 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+01:29:39.726 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+01:29:39.746 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+01:29:41.293 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+01:29:43.067 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+01:29:44.512 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+01:44:35.784 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+01:44:41.579 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+01:44:41.609 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+01:44:54.583 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+01:56:36.831 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+01:56:43.217 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+01:56:43.249 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+01:56:58.447 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+02:03:23.200 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+02:03:29.167 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+02:03:29.193 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+02:03:41.838 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+02:03:51.993 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+02:04:02.133 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+02:21:47.888 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+02:21:53.443 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+02:21:53.472 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+02:21:58.998 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+02:22:11.638 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+02:22:21.789 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+02:26:08.959 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+02:26:14.974 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+02:26:15.008 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+02:26:19.656 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+02:26:19.664 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+02:26:32.530 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+02:26:42.703 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+02:29:54.080 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+02:29:59.628 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+02:29:59.670 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+02:30:04.532 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+02:30:04.546 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+02:30:17.409 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+02:30:27.604 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+07:02:23.890 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+07:02:33.903 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+07:02:33.950 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+07:02:38.995 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+07:02:39.011 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+07:02:51.669 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+07:03:01.878 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+07:15:43.072 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+07:15:49.112 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+07:15:49.140 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+07:15:54.692 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+07:15:54.698 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+07:16:07.416 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+07:16:17.649 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+07:42:55.035 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+07:43:01.117 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+07:43:01.142 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+07:43:05.896 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+07:43:05.909 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+07:44:20.309 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+07:48:27.255 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+07:48:33.890 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+07:48:33.920 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+07:48:38.912 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+07:48:38.938 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+07:48:51.446 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+07:49:01.626 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+01:18:26.805 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+01:18:34.200 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+01:18:34.250 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+01:18:38.980 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+01:18:38.988 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+01:18:44.592 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+01:18:57.040 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+01:20:22.591 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+01:20:28.212 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+01:20:28.237 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+01:20:32.949 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+01:20:32.955 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+01:20:37.689 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+02:04:48.588 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+02:04:49.317 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+02:04:51.577 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+02:04:51.580 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+02:04:52.665 [main] INFO  testCases.TC_001_AccountRegistrationTest - Switched to IFRAME....
+02:04:53.073 [main] INFO  testCases.TC_001_AccountRegistrationTest - Switched BACK TO WINDOWS....
+02:08:13.492 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+02:08:14.240 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+02:08:16.340 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+02:08:16.344 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+02:08:17.460 [main] INFO  testCases.TC_001_AccountRegistrationTest - Switched to IFRAME....
+02:08:17.863 [main] INFO  testCases.TC_001_AccountRegistrationTest - Switched BACK TO WINDOWS....
+02:08:28.233 [main] INFO  testCases.TC_002_LoginTest - ***********Starting TC_002_LoginTest************
+02:08:28.836 [main] INFO  testCases.TC_002_LoginTest - Clicked on Image
+02:08:31.110 [main] INFO  testCases.TC_002_LoginTest - Clicked on Sign IN
+02:08:31.115 [main] INFO  testCases.TC_002_LoginTest - Providing login details
+02:08:33.009 [main] INFO  testCases.TC_002_LoginTest - Clicked on Create Account button
+02:08:33.201 [main] INFO  testCases.TC_002_LoginTest - Clicked on Sign IN
+02:08:33.344 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+00:39:49.745 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+00:39:55.780 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+00:39:55.816 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+00:40:00.716 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+00:40:00.722 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+00:40:05.413 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+00:45:48.741 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+00:45:53.983 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+00:45:54.012 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+00:45:58.912 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+00:45:58.915 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+00:46:03.587 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+02:28:54.356 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+02:28:55.238 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+02:28:57.152 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+02:28:57.156 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+02:28:58.324 [main] INFO  testCases.TC_001_AccountRegistrationTest - Switched to IFRAME....
+02:28:58.801 [main] INFO  testCases.TC_001_AccountRegistrationTest - Switched BACK TO WINDOWS....
+02:29:05.402 [main] INFO  testCases.TC_002_LoginTest - ***********Starting TC_002_LoginTest************
+02:29:06.071 [main] INFO  testCases.TC_002_LoginTest - Clicked on Image
+02:29:07.580 [main] INFO  testCases.TC_002_LoginTest - Clicked on Sign IN
+02:29:07.585 [main] INFO  testCases.TC_002_LoginTest - Providing login details
+02:29:09.193 [main] INFO  testCases.TC_002_LoginTest - Clicked on Create Account button
+02:29:09.503 [main] INFO  testCases.TC_002_LoginTest - Clicked on Sign IN
+02:29:09.764 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+01:48:39.689 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+01:48:46.067 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+01:48:46.097 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+01:48:51.304 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+01:48:51.314 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+01:48:56.296 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+01:50:55.174 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+01:51:02.209 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+01:51:02.261 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+01:51:07.531 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+01:51:07.533 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+01:51:12.910 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+01:53:43.034 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+01:53:50.499 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+01:53:50.517 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+01:53:55.921 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+01:53:55.923 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+01:54:01.967 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+02:02:51.371 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+02:02:57.165 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+02:02:57.192 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+02:03:02.010 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+02:03:02.015 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+02:03:06.503 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+02:12:32.937 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+02:12:38.485 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+02:12:38.551 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+02:12:43.668 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+02:12:43.670 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***  Starting TC_003_LoginDDT
+02:12:48.129 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
